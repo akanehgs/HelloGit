@@ -1,1 +1,3 @@
-Git Hello
+Git Hello!
+
+ぎっとこんにちは！
